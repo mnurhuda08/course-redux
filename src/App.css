@@ -1,6 +1,6 @@
 #root {
-  @apply: bg-sky-50;
-  max-width: 100vh;
+  @apply bg-sky-50;
+  min-height: 100vh;
   overflow-x: hidden;
   position: relative;
 }
